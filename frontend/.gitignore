@@ -1,0 +1,14 @@
+### Frontend (React + Vite) ###
+node_modules/
+dist/
+.vercel/
+.eslintcache
+*.tsbuildinfo
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+### Env files (secrets) ###
+.env.*
+!.env.example
